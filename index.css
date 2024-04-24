@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    min-height: 100vh;
+    background: linear-gradient(to right, yellow, orange);
+}
